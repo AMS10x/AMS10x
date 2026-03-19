@@ -6,8 +6,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AMS10x&theme=aura_dark) 
 
-- 🔭 I’m exploring system languages like Rust and C++
-- 💬 Ask me about anything, sometimes i could help ;)
+## 🔭 I’m exploring system languages like Rust and C++
+## 💬 Ask me about anything, sometimes i could help ;)
 
 ### 📖 | Languages / Taalen / Langages / Языки|
 
