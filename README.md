@@ -12,7 +12,8 @@
 
 ### 📖 | Languages / Taalen / Langages / Языки|
 
- * 🇬🇧🇺🇸 English B2-C1
+ * 🇬🇧🇺🇸 English.
+ * B2-C1
  * 🇳🇱🇧🇪 Nederlands  A2-B1
  * 🇫🇷   Le français A1-A2
  * 🇷🇺   Русский     Native
