@@ -10,8 +10,6 @@
 - 😄 Pronouns: [your pronouns]
 - ⚡ Fun fact: [your fact]
 
-![Alt Text](https://cdn.britannica.com/66/96866-050-BBAE91CE/Flag-European-Union.jpg)
-
 ### 📖 | Languages / Taalen / Langages / Языки|
 
  * 🇬🇧🇺🇸 English              B2-C1
