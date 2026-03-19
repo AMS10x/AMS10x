@@ -5,7 +5,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMS10x&theme=aura_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AMS10x&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AMS10x&theme=holi)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AMS10x&theme=aura_dark)
 
 - 🔭 I’m currently working on [your project]
 - 🌱 I’m learning [your skill]
