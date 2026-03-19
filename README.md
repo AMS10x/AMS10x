@@ -23,7 +23,7 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-### 🖥️ Devices
+### 🖥️ | Devices |
 - **PC:** [ RTX 5070 | Ryzen 5 7500F | RAM: 32gb DDR5 ]
 - **Laptop:** [ Macbook Air M1 8/256 ]
 - **OS:** [ Win11 | MacOS 26.2 | Linux (sometimes Debian, sometimes Arch or Fedora) ]
