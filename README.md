@@ -1,9 +1,6 @@
 # Hi there 👋, I'm [Your Name]
 ![](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 
-![Alt Text](<img width="1400" height="896" alt="image" src="https://github.com/user-attachments/assets/335c3489-308c-40d9-9a60-a02347dd7864" />
-)
-
 - 🔭 I’m currently working on [your project]
 - 🌱 I’m learning [your skill]
 - 👯 I’m looking to collaborate on [your interests]
@@ -12,6 +9,8 @@
 - 📫 How to reach me: [your email/socials]
 - 😄 Pronouns: [your pronouns]
 - ⚡ Fun fact: [your fact]
+
+![Alt Text](https://cdn.britannica.com/66/96866-050-BBAE91CE/Flag-European-Union.jpg)
 
 ### 📖 | Languages / Taalen / Langages / Языки|
 
