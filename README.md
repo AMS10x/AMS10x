@@ -13,6 +13,7 @@
 
  * 🇬🇧🇺🇸 English B2-C1
  * 🇳🇱🇧🇪 Nederlands  A2-B1
+ * 🇩🇪🇦🇹 Deutch A1-A2
  * 🇫🇷   Le français A1-A2
  * 🇷🇺   Русский     Native
 
