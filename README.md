@@ -33,10 +33,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AMS10x)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]([https://steamcommunity.com/id/yourusername](https://steamcommunity.com/profiles/76561199559225923/))
 
-
-
-
-
-![alt](<img width="1400" height="896" alt="image" src="https://github.com/user-attachments/assets/d5841fe1-8e08-474a-b20b-9a8d66021af8"/>)
-
-
