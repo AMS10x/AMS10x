@@ -2,6 +2,8 @@
 
 > "Один раз в году можно" - @КчауБыков
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+
 - 🔭 I’m currently working on [your project]
 - 🌱 I’m learning [your skill]
 - 👯 I’m looking to collaborate on [your interests]
