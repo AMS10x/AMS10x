@@ -3,6 +3,7 @@
 > "Один раз в году можно" - @КчауБыков
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMS10x&theme=aura_dark)
+![Alt Text](<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/e39b4c2c-efd9-4f42-9316-3acf3d7628aa" />)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AMS10x&theme=aura_dark)
 
 - 🔭 I’m currently working on [your project]
