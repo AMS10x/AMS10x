@@ -11,7 +11,7 @@
 
 ### 📖 | Languages / Taalen / Langages / Языки|
 
- * 🇬🇧🇺🇸 English              B2-C1
+ * 🇬🇧🇺🇸 English B2-C1
  * 🇳🇱🇧🇪 Nederlands  A2-B1
  * 🇫🇷   Le français A1-A2
  * 🇷🇺   Русский     Native
@@ -25,7 +25,7 @@
 
 ### 🖥️ Devices
 - **PC:** [ RTX 5070 | Ryzen 5 7500F | RAM: 32gb DDR5 ]
-- **Laptop:** [ Macbook Air M1 8/256]
+- **Laptop:** [ Macbook Air M1 8/256 ]
 - **OS:** [ Win11 | MacOS 26.2 | Linux (sometimes Debian, sometimes Arch or Fedora) ]
 
 ### 🌐 | Social Networks and how to contact | [click! ⬇ ]
