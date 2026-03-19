@@ -10,11 +10,11 @@
 
 ### 📖 | Languages / Taalen / Langages / Языки|
 
- * 🇬🇧🇺🇸 English B2-C1
- * 🇳🇱🇧🇪 Nederlands  A2-B1
- * 🇩🇪🇦🇹 Deutch A1-A2
- * 🇫🇷🇨🇦 Le français A1-A2
- * 🇷🇺🇧🇾 Русский Native
+ * 🇬🇧🇺🇸 English | B2-C1
+ * 🇳🇱🇧🇪 Nederlands | A2-B1
+ * 🇩🇪🇦🇹 Deutch | A1-A2
+ * 🇫🇷🇨🇦 Le français | A1-A2
+ * 🇷🇺🇧🇾 Русский | Native
 
 ### 💻 | Programming languages / Programmeertalen / Langages de programmation / Языки программирования |
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
