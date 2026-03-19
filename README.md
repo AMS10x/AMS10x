@@ -10,7 +10,13 @@
 - 😄 Pronouns: [your pronouns]
 - ⚡ Fun fact: [your fact]
 
-### 🛠️ Tech Stack
+### 📖 |Languages/Taalen/Langages/Языки|
+  🇬🇧🇺🇸 English     B2-C1
+  🇳🇱🇧🇪 Nederlands  A2-B1
+  🇫🇷   le français A1-A2
+  🇷🇺   Русский     Native
+
+### 💻 |Languages/Programmeertalen/Langages de Programmation/Языки программирования|
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
