@@ -6,14 +6,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AMS10x&theme=aura_dark) 
 
-- 🔭 I’m currently working on [your project]
-- 🌱 I’m learning [your skill]
-- 👯 I’m looking to collaborate on [your interests]
-- 🤔 I’m looking for help with [your needs]
-- 💬 Ask me about [your expertise]
-- 📫 How to reach me: [your email/socials]
-- 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [your fact]
+- 🔭 I’m exploring system languages like Rust and C++
+- 💬 Ask me about anything, sometimes i could help ;)
 
 ### 📖 | Languages / Taalen / Langages / Языки|
 
