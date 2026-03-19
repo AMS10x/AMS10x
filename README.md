@@ -2,9 +2,9 @@
 
 > "Один раз в году можно" - @КчауБыков
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMS10x&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMS10x&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AMS10x&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AMS10x&theme=default)
+
 - 🔭 I’m currently working on [your project]
 - 🌱 I’m learning [your skill]
 - 👯 I’m looking to collaborate on [your interests]
