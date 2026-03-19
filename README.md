@@ -1,5 +1,7 @@
 # Hi there 👋
 
+> "Один раз в году можно" - @КчауБыков
+
 - 🔭 I’m currently working on [your project]
 - 🌱 I’m learning [your skill]
 - 👯 I’m looking to collaborate on [your interests]
@@ -40,5 +42,5 @@
 
 
 
-> "Один раз в году можно" - @КчауБыков
+
 
