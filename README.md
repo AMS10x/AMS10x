@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, thats my page 👋
 
 > "Один раз в году можно" - @КчауБыков
 
