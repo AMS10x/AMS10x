@@ -11,11 +11,10 @@
 - ⚡ Fun fact: [your fact]
 
 ### 📖 |Languages/Taalen/Langages/Языки|
-- 🇳🇱🇧🇪 Nederlands  A2-B1
+
 - 🇬🇧🇺🇸 English B2-C1
- 
  - 🇳🇱🇧🇪 Nederlands  A2-B1
- - 🇫🇷   le français A1-A2
+ - 🇫🇷   Le français A1-A2
  - 🇷🇺   Русский     Native
 
 ### 💻 |Languages/Programmeertalen/Langages de Programmation/Языки программирования|
