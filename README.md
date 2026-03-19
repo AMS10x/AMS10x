@@ -2,7 +2,7 @@
 
 > "Один раз в году можно" - @КчауБыков
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMS10q&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMS10&theme=default)
 
 - 🔭 I’m currently working on [your project]
 - 🌱 I’m learning [your skill]
