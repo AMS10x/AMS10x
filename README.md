@@ -30,7 +30,7 @@
 - **OS:** [ Win11 | MacOS 26.2 | Linux (sometimes Debian, sometimes Arch or Fedora) ]
 
 ### 🌐 | Social Networks and how to contact | [click! ⬇ ]
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)([[https://spotify.com/yourusername](https://open.spotify.com/user/3145cbedd6nenedanhiuyxqlliym?si=d562b1df86244b2d)](https://open.spotify.com/user/3145cbedd6nenedanhiuyxqlliym?si=b29cef71bbc04c26)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white](https://open.spotify.com/user/3145cbedd6nenedanhiuyxqlliym?si=d562b1df86244b2d)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AMS10x)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yourusername)
 
