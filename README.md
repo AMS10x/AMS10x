@@ -37,3 +37,8 @@
 [![FMS SFU-KRAS](https://example.com/path/to/image.jpg)](https://fms.sfu-kras.ru/)
 
 
+
+
+
+> "Один раз в году можно" - @КчауБыков
+
