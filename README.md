@@ -10,9 +10,9 @@
 
 
 
-## 🔭 I’m exploring system languages like Rust and C++ <img src="https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/2X/9/9f76ef5e791e27deaaafbca2a3bea35d63e165c8.gif" width="334" height='30'/> 
+## 🔭 I’m exploring system languages like Rust and C++ <img src="https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/2X/9/9f76ef5e791e27deaaafbca2a3bea35d63e165c8.gif" width="334" height='30' /> 
 
-## 💬 Ask me about anything, sometimes i could be useful ;) <img src="https://architectenweb.nl/media/illustrations/2026/01/60fbdc57-6c64-4a15-826e-2708c4a8c301_400.gif" width="334" height='30'/>
+## 💬 Ask me about anything, sometimes i could be useful ;) <img src="https://architectenweb.nl/media/illustrations/2026/01/60fbdc57-6c64-4a15-826e-2708c4a8c301_400.gif" width="334" height="30" />
 
 ### 📖 | Languages / Taalen / Langages / Языки |
 
