@@ -1,4 +1,4 @@
-# Hi there, thats my page 👋 <img src="https://i.pinimg.com/originals/00/8b/c9/008bc959d0606d04ed4c58880daf0b20.gif" width="610" height="50" />
+# Hi there, thats my page 👋 <img src="https://i.pinimg.com/originals/00/8b/c9/008bc959d0606d04ed4c58880daf0b20.gif" width="620" height="50" />
 
 
 
