@@ -7,7 +7,7 @@
 <img src="https://media.tenor.com/VjjwSvR2wKAAAAAM/helloworld-helloworld-print.gif" width="200" />
 
 ## 🔭 I’m exploring system languages like Rust and C++
-<img src="[https://art.pixilart.com/0d92ea76c0f540a.gif](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Ff1vixqs7x7bxcdhtmnbl.gif)" width="100" />  
+<img src="https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/2X/9/9f76ef5e791e27deaaafbca2a3bea35d63e165c8.gif" width="100" />  
 <img src="https://art.pixilart.com/0d92ea76c0f540a.gif" width="100" />  
 ddccdd
 ## 💬 Ask me about anything, sometimes i could be useful ;)
