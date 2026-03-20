@@ -9,15 +9,14 @@
 ## 💬 Ask me about anything, sometimes i could be useful ;)
 
 ### 📖 | Languages / Taalen / Langages / Языки | ![Animated Flag of Europe]
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif" width="200" />
-</p>
 
 
 
 
  * 🇬🇧🇺🇸 English | B2-C1
  * 🇳🇱🇧🇪 Nederlands | A2-B1
- * 🇩🇪🇦🇹 Deutch | A1-A2
+ * 🇩🇪🇦🇹 Deutch | A1-A2   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif" width="200" />
+</p>
  * 🇫🇷🇨🇦 Le français | A1-A2
  * 🇷🇺🇧🇾 Русский | Native
 
