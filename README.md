@@ -11,7 +11,7 @@
 ### 📖 | Languages / Taalen / Langages / Языки | ![Animated Flag of Europe]
 
 
-<div style="float: right;">
+<div style="float: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif" width="100" />
 </div>
 
