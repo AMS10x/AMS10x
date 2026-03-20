@@ -14,7 +14,7 @@
 
 <div style="display: flex; align-items: flex-start;">
   <p style="margin: 0; display: inline-block;">
-    🇬🇧🇺🇸 English B2-C1 | 🇳🇱🇧🇪 Nederlands A2-B1 | 🇩🇪🇦🇹 Deutsch A1-A2 | 🇫🇷🇨🇦 Le français A1-A2 | 🇷🇺 Русский Native |
+    🇬🇧 English B2-C1 | 🇳🇱🇧🇪 Nederlands A2-B1 | 🇩🇪🇦🇹 Deutsch A1-A2 | 🇫🇷🇨🇦 Le français A1-A2 | 🇷🇺 Русский Native |
   </p>
   <div style="display: flex; flex-direction: column; margin-left: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" width="100" />
