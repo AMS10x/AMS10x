@@ -10,9 +10,20 @@
 
 ### 📖 | Languages / Taalen / Langages / Языки | ![Animated Flag of Europe]
 
+
+
+
+
+<div style="display: inline-block; vertical-align: middle;">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7FyHaWPRluZW2DO-4uDa7q6pgpeJUlu5FL1yvgkGKD7qewZcHqr0M5GMlJY_hZFqlwgJggmvNfBg0f7s0Vc6Mf0Qd_NgB-RSa_m1Q3Fl7N6U4WIPeFq5fjnw42jyKesEtjHv9Lc9le90/s0-e90-rw/Flag_of_the_Netherlands.gif" width="100" style="float: right;" />
+</div>
 <div style="display: inline-block; vertical-align: middle;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif" width="100" style="float: right;" />
 </div>
+
+
+
+
 
 <p style="display: inline-block; vertical-align: middle;">
   🇬🇧 English | B2-C1 *
