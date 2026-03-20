@@ -1,4 +1,4 @@
-# Hi there, thats my page 👋
+# Hi there, thats my page 👋 <img scr="https://i.pinimg.com/originals/2f/e1/36/2fe136efef175f928d6f81f18beb25e1.gif" width="100" />
 
 > "Один раз в году можно" - @КчауБыков
 
@@ -8,7 +8,7 @@
 
 ## 🔭 I’m exploring system languages like Rust and C++ <img src="https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/2X/9/9f76ef5e791e27deaaafbca2a3bea35d63e165c8.gif" width="100" /> 
 
-## 💬 Ask me about anything, sometimes i could be useful ;) <img src="https://static.tildacdn.com/tild3330-6566-4638-b266-643037363331/photo.gif" width="190" /> 
+## 💬 Ask me about anything, sometimes i could be useful ;)
 
 
 ### 📖 | Languages / Taalen / Langages / Языки |
