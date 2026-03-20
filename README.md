@@ -10,7 +10,7 @@
 
 ### 📖 | Languages / Taalen / Langages / Языки | ![Animated Flag of Europe]
 
-<table>
+
   <tr>
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom.gif" width="30" />
