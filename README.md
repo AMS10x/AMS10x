@@ -6,7 +6,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMS10x&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AMS10x&theme=aura_dark)
-<img src="https://media.tenor.com/VjjwSvR2wKAAAAAM/helloworld-helloworld-print.gif" width="200" />
+<img src="https://media.tenor.com/VjjwSvR2wKAAAAAM/helloworld-helloworld-print.gif" width="600" height="100" />
 
 ## 🔭 I’m exploring system languages like Rust and C++ <img src="https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/2X/9/9f76ef5e791e27deaaafbca2a3bea35d63e165c8.gif" width="100" /> 
 
