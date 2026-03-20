@@ -4,13 +4,7 @@
 > "Один раз в году можно" - @КчауБыков
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMS10x&theme=aura_dark)
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
-
+<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AMS10x&theme=aura_dark)
 
 
