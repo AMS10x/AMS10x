@@ -15,14 +15,12 @@
 
 
 <div style="display: inline-block; vertical-align: middle;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif" width="100" style="float: right;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif" width="100" />
 </div>
+
 <div style="display: inline-block; vertical-align: middle;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif" width="100" style="float: right;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif" width="100" />
 </div>
-
-
-
 
 
 <p style="display: inline-block; vertical-align: middle;">
