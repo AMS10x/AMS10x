@@ -12,7 +12,7 @@
 
 ## 🔭 I’m exploring system languages like Rust and C++ <img src="https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/2X/9/9f76ef5e791e27deaaafbca2a3bea35d63e165c8.gif" width="334" height='30' /> 
 
-## 💬 Ask me about anything, sometimes i could be useful ;) <img src="https://shortpixel.com/blog/wp-content/uploads/2023/12/mario_compressed.gif" width="280" height="30" />
+## 💬 Ask me about anything, sometimes i could be useful ;) <img src="https://shortpixel.com/blog/wp-content/uploads/2023/12/mario_compressed.gif" width="290" height="30" />
 
 ### 📖 | Languages / Taalen / Langages / Языки |
 
