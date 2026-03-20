@@ -1,6 +1,6 @@
 # Hi there, thats my page 👋
 
-<img src="https://media.tenor.com/VjjwSvR2wKAAAAAM/helloworld-helloworld-print.gif" width="100" length="300" />
+<img src="https://media.tenor.com/VjjwSvR2wKAAAAAM/helloworld-helloworld-print.gif" width="100" length="3000" />
 
 > "Один раз в году можно" - @КчауБыков
 
