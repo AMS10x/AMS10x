@@ -1,8 +1,9 @@
 # Hi there, thats my page 👋
 
+<img src="https://media.tenor.com/VjjwSvR2wKAAAAAM/helloworld-helloworld-print.gif" width="195" />
+
 > "Один раз в году можно" - @КчауБыков
 
-<img src="https://media.tenor.com/VjjwSvR2wKAAAAAM/helloworld-helloworld-print.gif" width="195" />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMS10x&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AMS10x&theme=aura_dark) 
 
