@@ -48,7 +48,7 @@
 ### 🖥️ | Devices |
 - **PC:** [ RTX 5070 | Ryzen 5 7500F | RAM: 32gb DDR5 ]
 - **Laptop:** [ Macbook Air M1 8/256 ]
-- **OS:** [ Win11 | MacOS 26.2 | Linux (sometimes Debian, sometimes Arch or Fedora) ]
+- **OS:** [ ⁉️ Win11 | 🍎 MacOS 26.2 | 🐧 Linux (sometimes Debian, sometimes Arch or Fedora) ]
 
 ### 🌐 | Social Networks and how to contact | [click! ⬇]
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3145cbedd6nenedanhiuyxqlliym?si=502632206dc14ecb)
