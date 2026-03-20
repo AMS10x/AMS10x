@@ -10,11 +10,20 @@
 
 ### 📖 | Languages / Taalen / Langages / Языки | ![Animated Flag of Europe]
 
- * 🇬🇧🇺🇸 English | B2-C1
- * 🇳🇱🇧🇪 Nederlands | A2-B1
- * 🇩🇪🇦🇹 Deutch | A1-A2
- * 🇫🇷🇨🇦 Le français | A1-A2
- * 🇷🇺🇧🇾 Русский | Native
+<div style="display: inline-block; vertical-align: middle;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif" width="100" style="float: right;" />
+</div>
+
+<p style="display: inline-block; vertical-align: middle;">
+  🇬🇧 English | B2-C1 *
+  🇳🇱 Nederlands | A2-B1 *
+  🇩🇪 Deutsch | A1-A2 *
+  🇫🇷 Le français | A1-A2 *
+  🇷🇺 Русский | Native
+</p>
+
+
+
 
 
 ### 💻 | Programming languages / Programmeertalen / Langages de programmation / Языки программирования |
