@@ -1,5 +1,4 @@
-# Hi there, thats my page 👋
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-plain.svg" />
+# Hi there, thats my page 👋 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-plain.svg" width="15"/>
           
 
 
