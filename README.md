@@ -12,8 +12,8 @@
 
 ## 🔭 I’m exploring system languages like Rust and C++ <img src="https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/2X/9/9f76ef5e791e27deaaafbca2a3bea35d63e165c8.gif" width="334" height='30'/> 
 
-## 💬 Ask me about anything, sometimes i could be useful ;)
-
+## 💬 Ask me about anything, sometimes i could be useful ;) <img src="https://i.makeagif.com/media/6-20-2024/1Wqubv.gif
+" width="334" height='30'/>
 
 ### 📖 | Languages / Taalen / Langages / Языки |
 
