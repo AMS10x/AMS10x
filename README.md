@@ -52,7 +52,7 @@
 
 ### 💾 | Other soft |
 
-<div style="display: flex; gap: 30px;">
+<div style="display: flex; gap: 60px;">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="70"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="70"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="70"/>      
