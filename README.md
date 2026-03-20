@@ -18,6 +18,10 @@
   </p>
   <div style="display: flex; flex-direction: column; margin-left: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif" width="100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" width="100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" width="100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-France.gif" width="100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Animated-Flag-Russia.gif" width="100" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif" width="100" />
   </div>
 </div>
