@@ -10,15 +10,23 @@
 
 ### 📖 | Languages / Taalen / Langages / Языки | ![Animated Flag of Europe]
 
+<table>
+  <tr>
+    <td>
+      <img src="https://mistralaichatupprodswe.blob.core.windows.net/chat-images/b1/2c/e5/b12ce5c4-61a6-447d-adbd-ccfcc993fb8c/aaf81167-0469-4615-acb5-520989dfeeba/39f23619-659b-465f-bcca-e284bde1db7f?sv=2025-01-05&st=2026-03-20T07%3A30%3A20Z&se=2026-03-20T08%3A30%3A20Z&sr=b&sp=r&sig=Ohmnsr1vAOP%2FD5eEzWxaq5%2FosYWSf4O5B2Vp5btPJbA%3D" width="100" />
+    </td>
+    <td>
+      <p>
+        🇬🇧 English | B2-C1 *
+        🇳🇱 Nederlands | A2-B1 *
+        🇩🇪 Deutsch | A1-A2 *
+        🇫🇷 Le français | A1-A2 *
+        🇷🇺 Русский | Native
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div style="float: right;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif" width="100" />
-</div>
- * 🇬🇧🇺🇸 English | B2-C1
- * 🇳🇱🇧🇪 Nederlands | A2-B1
- * 🇩🇪🇦🇹 Deutch | A1-A2
- * 🇫🇷🇨🇦 Le français | A1-A2
- * 🇷🇺🇧🇾 Русский | Native
 
 ### 💻 | Programming languages / Programmeertalen / Langages de programmation / Языки программирования |
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
