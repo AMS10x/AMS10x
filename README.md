@@ -12,13 +12,14 @@
 
 
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif" width="100" style="display: inline-block;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif" width="100" style="display: inline-block;" />
-<div style="display: inline-block;">
-  <p style="display: inline-block; margin: 0;">
+<div style="display: flex; align-items: center;">
+  <p style="margin: 0; display: inline-block;">
     🇬🇧 English | B2-C1 * 🇳🇱 Nederlands | A2-B1 * 🇩🇪 Deutsch | A1-A2 * 🇫🇷 Le français | A1-A2 * 🇷🇺 Русский | Native
   </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif" width="100" style="display: inline-block; margin-left: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif" width="100" style="display: inline-block; margin-left: 10px;" />
 </div>
+
 
 
 
