@@ -12,7 +12,7 @@
 
 
 <p align="left">
-  <img src="https://mistralaichatupprodswe.blob.core.windows.net/chat-images/b1/2c/e5/b12ce5c4-61a6-447d-adbd-ccfcc993fb8c/aaf81167-0469-4615-acb5-520989dfeeba/af2d473b-7806-40c1-87f6-c66a28a67cb0?sv=2025-01-05&st=2026-03-20T07%3A24%3A36Z&se=2026-03-20T08%3A24%3A36Z&sr=b&sp=r&sig=nFqosoTGekAqszhR8fNgZtmLQ8oOQQBnISl%2Beo7Wnps%3D" width="150" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif" width="150" />
 </p>
 
  * 🇬🇧🇺🇸 English | B2-C1
