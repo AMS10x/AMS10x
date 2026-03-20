@@ -8,7 +8,8 @@
 ## 🔭 I’m exploring system languages like Rust and C++
 ## 💬 Ask me about anything, sometimes i could be useful ;)
 
-### 📖 | Languages / Taalen / Langages / Языки |
+### 📖 | Languages / Taalen / Langages / Языки | ![Animated Flag of Europe](https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif)
+
 
  * 🇬🇧🇺🇸 English | B2-C1
  * 🇳🇱🇧🇪 Nederlands | A2-B1
