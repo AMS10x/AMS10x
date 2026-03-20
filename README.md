@@ -4,7 +4,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMS10x&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AMS10x&theme=aura_dark)
-<img src="https://media.tenor.com/VjjwSvR2wKAAAAAM/helloworld-helloworld-print.gif" width="195" />
+<img src="https://media.tenor.com/VjjwSvR2wKAAAAAM/helloworld-helloworld-print.gif" width="200" />
 
 ## 🔭 I’m exploring system languages like Rust and C++
 ## 💬 Ask me about anything, sometimes i could be useful ;)
