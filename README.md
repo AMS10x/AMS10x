@@ -73,7 +73,7 @@
 ### 🖥️ | Devices |
 - **PC:** [ RTX 5070 | Ryzen 5 7500F | RAM: 32gb DDR5 ]
 - **Laptop:** [ Macbook Air M1 8/256 ]
-- **OS:** [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> Win11 | 🍎 MacOS 26.2 | 🐧 Linux (sometimes Debian, sometimes Arch or Fedora) ]
+- **OS:** [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="10"/> Win11 | 🍎 MacOS 26.2 | 🐧 Linux (sometimes Debian, sometimes Arch or Fedora) ]
 
 ### 🌐 | Social Networks and how to contact | [click! ⬇]
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3145cbedd6nenedanhiuyxqlliym?si=502632206dc14ecb)
