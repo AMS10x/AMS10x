@@ -29,7 +29,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-France.gif" width="100" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" width="100" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Animated-Flag-Russia.gif" width="100" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif" width="100" />
   </div>
 </div>
 
