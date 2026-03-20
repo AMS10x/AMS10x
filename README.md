@@ -11,9 +11,10 @@
 ### 📖 | Languages / Taalen / Langages / Языки | ![Animated Flag of Europe]
 
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif" width="150" />
-</p>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Europe-Animated.gif" width="200" />
+</div>
+
 
  * 🇬🇧🇺🇸 English | B2-C1
  * 🇳🇱🇧🇪 Nederlands | A2-B1
